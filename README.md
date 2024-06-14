@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
 ### 🛠️ Usage
 1. Clone the Repository:
 ```
-https://github.com/Sumanthmundru/Brainwave_Matrix_Intern.git
+https://github.com/Sumanthmundru/BrainWave_Matrix_Intern.git
 ```
 2. Navigate to the Project Directory:
 ```
@@ -66,6 +66,6 @@ https://drive.google.com/drive/folders/1PSCh95jhnA1scs-NRfpkRSEAD9NwxPkp
 ```
 Repository:
 ```
-https://github.com/Sumanthmundru/Brainwave_Matrix_Intern.git
+https://github.com/Sumanthmundru/BrainWave_Matrix_Intern.git
 ```
 Thank you for your interest in this project! For any questions or feedback, please open an issue or contact the project maintainers.
